@@ -3,12 +3,12 @@ body {
     margin: 0;
     padding: 0;
     background-color: #4d1200;
-    color: #333;
+    color: #ffffff;
 }
 
 header {
-    background-color: #ff9900;
-    color: white;
+    background-color: #a36200;
+    color: rgb(182, 0, 0);
     padding: 1rem 0;
     text-align: center;
 }
@@ -29,7 +29,7 @@ main {
     display: flex;
     flex-direction: row;
     align-items: center;
-    background-color: white;
+    background-color: rgb(179, 27, 27);
     border: 1px solid #ccc;
     border-radius: 8px;
     margin: 1rem 0;
@@ -59,7 +59,7 @@ main {
 footer {
     text-align: center;
     padding: 1rem 0;
-    background-color: #333;
+    background-color: #db5000;
     color: white;
     margin-top: auto;
 }
